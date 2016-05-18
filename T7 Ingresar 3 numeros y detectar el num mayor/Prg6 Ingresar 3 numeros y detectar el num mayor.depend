@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1461711391 source:c:\users\kennyayala\onedrive\documents\new folder\prg6 ingresar 3 numeros y detectar el num mayor\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
